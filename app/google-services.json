@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1079415499294",
+    "project_id": "smlie-dector",
+    "storage_bucket": "smlie-dector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079415499294:android:6a977f6cd8dccdef6f1c0f",
+        "android_client_info": {
+          "package_name": "com.lakshyagupt7089.smliedector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079415499294-uucut3ms4jpuljqkttq3gho0h9qlgl11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqN9Cga_UZv8p90laJMSfefktTlm9Rb3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079415499294-uucut3ms4jpuljqkttq3gho0h9qlgl11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079415499294:android:118f0d145b66d41e6f1c0f",
+        "android_client_info": {
+          "package_name": "com.lakshyagupta7089.smiledetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079415499294-uucut3ms4jpuljqkttq3gho0h9qlgl11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqN9Cga_UZv8p90laJMSfefktTlm9Rb3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079415499294-uucut3ms4jpuljqkttq3gho0h9qlgl11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
